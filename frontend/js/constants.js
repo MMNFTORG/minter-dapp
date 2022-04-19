@@ -1,4 +1,4 @@
-const contractAddress = "0x0335c79D54706B2e97E691f16fbe519A342a580A"; //Replace with your own contract address
+const contractAddress = ""; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the MMNFT Project!";
